@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Maria Jose Ridolfo, pero todos me dicen Majo
+- Vivo en Moron
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Estoy haciendo la Tecnicatura de Programacion, estoy a 8 materias de recibirme.
+
